@@ -1,5 +1,5 @@
 <html>
-    <form>
+    <form id="form1">
         <div id="header">Teste de versionamento do GIT</div>
     </form>
 </html>
